@@ -1,0 +1,40 @@
+[{
+    "id": "fiction",
+    "title": "FICTION",
+    "imageSrc": "https://i.blogs.es/e7d433/ready-player-one/1366_2000.jpg"
+}, {
+    "id": "historical",
+    "title": "HISTORICAL",
+    "imageSrc": "https://i.pinimg.com/564x/29/d4/f8/29d4f83db64a127151bc5fe6a82fc8c4.jpg"
+
+}, {
+    "id": "science",
+    "title": "SCIENCE",
+    "imageSrc": "https://i.pinimg.com/564x/03/2b/b4/032bb4387d0796e02d7e23ac92adea99.jpg"
+
+}, {
+    "id": "horror",
+    "title": "HORROR",
+    "imageSrc": "https://i.pinimg.com/236x/07/3b/25/073b253f4be1d52bc3ceddea22776fbb.jpg"
+
+}, {
+    "id": "art",
+    "title": "ART",
+    "imageSrc": "https://i.pinimg.com/564x/29/1a/1a/291a1a2e4e3707ee692dc6d9af2d2a83.jpg"
+
+}, {
+    "id": "comics",
+    "title": "COMICS",
+    "imageSrc": "https://i.pinimg.com/564x/fa/59/26/fa5926266cf65161511ae809d043fc1d.jpg"
+
+}, {
+    "id": "adventure",
+    "title": "ADVENTURE",
+    "imageSrc": "https://i.pinimg.com/236x/76/04/4d/76044da7888b707a9c12d63661bc42c5.jpg"
+
+}, {
+    "id": "literature",
+    "title": "LITERATURE",
+    "imageSrc": "https://i.pinimg.com/564x/4f/2a/bd/4f2abdb05f013119c609bed2a7d97f73.jpg"
+
+}]
