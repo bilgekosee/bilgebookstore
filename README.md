@@ -1,10 +1,10 @@
 # Bilge Bookstore
 
-This project introduces Bilge Bookstore, a web application that allows you to explore books in the category. The project is developed using React.js.
+This project introduces Bilge Bookstore, a web application that allows you to explore books across various categories. The project is developed using React.js.
 
 ## Features
 
-- View books in the historical category.
+- View books across multiple categories.
 - Access detailed information for each book.
 - Filter books by categories.
 
@@ -14,8 +14,8 @@ The book information in this project is retrieved from [Goodreads](https://www.g
 
 ## How to Use
 
-1. Visit the [Bilge Bookstore](https://bilgebookstore.vercel.app/) website.
-2. Browse historical category books or perform a search.
+1. Visit the [Bilge Bookstore](https://bilgebookstore.vercel.app/books/category/historical) website.
+2. Browse books from different categories or perform a search.
 3. Click on a book of interest to learn more.
 
 ### User Registration
@@ -34,8 +34,6 @@ If you already have an account, you can log in using these steps:
 2. Enter your registered email and password.
 3. Click the "Login" button to access your account.
 
-
-
 ## Development
 
 The project is developed using React.js, JavaScript, HTML, and CSS. You can contribute your own changes or report issues by following these steps:
@@ -52,4 +50,4 @@ The project is developed using React.js, JavaScript, HTML, and CSS. You can cont
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project
