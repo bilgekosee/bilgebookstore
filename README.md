@@ -1,6 +1,6 @@
 # Bilge Bookstore
 
-This project introduces Bilge Bookstore, a web application that allows you to explore books in the historical category. The project is developed using React.js.
+This project introduces Bilge Bookstore, a web application that allows you to explore books in the category. The project is developed using React.js.
 
 ## Features
 
