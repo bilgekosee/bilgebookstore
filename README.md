@@ -10,11 +10,11 @@ This project introduces Bilge Bookstore, a web application that allows you to ex
 
 ## Book Information
 
-The book information in this project is retrieved from Goodreads (https://www.goodreads.com/).
+The book information in this project is retrieved from [Goodreads](https://www.goodreads.com/).
 
 ## How to Use
 
-1. Visit the [Bilge Bookstore](https://bilgebookstore.vercel.app/books/category/historical) website.
+1. Visit the [Bilge Bookstore](https://bilgebookstore.vercel.app/) website.
 2. Browse historical category books or perform a search.
 3. Click on a book of interest to learn more.
 
