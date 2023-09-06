@@ -50,4 +50,4 @@ The project is developed using React.js, JavaScript, HTML, and CSS. You can cont
 
 ## License
 
-This project
+This project is licensed under the [MIT License](LICENSE).
